@@ -1,0 +1,1 @@
+Obesity is a complex disease, similar to cardiovascular, diabetic, and renal diseaases, in the sense that it is polygnic and genomic. Not all of the heredity is explained by the genes identified so far. It appears more research has been conducted in this area, perhaps because of the commercialization potential; much can be learned from here and adapted for other other diseases. 
