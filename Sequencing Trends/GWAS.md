@@ -4,7 +4,7 @@ Sequencing the whole genome of each person in the study is expensive; so, only a
 
 About 1 million SNPs are tabulated for comparison between the case and control groups. High Odds ratio (>1) with significant P-value (from a simple chi-squared test) is required to associate that SNP with a specific disease. [Wellcome 2009 GWAS study]() has these numbers for CAD (coronary artery disease): G-allele of SNP1 (*rs1333049*) was found in 52.6% of cases vs 44.6% of controls. Corresponding P-value was 5.0 x 10 <sup>-15</sup>. However, the G-allele of SNP2 (*
 
-The following is extracted from a 2009 GWAS [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2719288/pdf/ukmss-4894.pdf):  
+The following is extracted from a 2009 GWAS [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2719288/):  
 Genetic variation may influence CAD risk both directly and indirectly (through other related risk phenotypes including hypertension, diabetes and hypercholesterolaemia). Only two loci have been identified from earlier Genome-wide linkage studies: ALOX5AP (arachidonate 5-lipoxygenase-activating protein) and LTA4H (leukotriene A4 hydrolase)). Genetic Association studies have identified several genetic variants affecting lipids, thrombosis, inflammation or vascular biology. This GWAS study, however, did  not support these findings.
 The most notable new finding for CAD is the powerful association on chromosome 9p21.3
 (Table 3; Fig. 5). Although the strongest signal is seen at rs1333049 (P=1.8×10-14),
