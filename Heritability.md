@@ -9,6 +9,8 @@ Example: Crohn's disease - had 71 loci ided in 2012. Under the additive model, t
 
 **Broad-sense (H<sub>2</sub>) vs narrow-sense heritability (h<sub>2</sub>)**: Authors use the word 'narrow' in a different way (opposite of my 'exclusive') - that it is a purely additive model if 'narrow.' That is what geneticists are using to calculate the contribution of individual loci to heritability.  
 
+** Explained, Missing, and Phantom Heritability**: Genticists use a "bottom-up' approach to estimate the numerator (see equation above) and a "top-down" approach to estimate the denominator. 
+
 
 
 
