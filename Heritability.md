@@ -9,7 +9,7 @@ Example: Crohn's disease - had 71 loci ided in 2012. Under the additive model, t
 
 **Broad-sense (H<sub>2</sub>) vs narrow-sense heritability (h<sub>2</sub>)**: Authors use the word 'narrow' in a different way (opposite of my 'exclusive') - that it is a purely additive model if 'narrow.' That is what geneticists are using to calculate the contribution of individual loci to heritability.  
 
-** Explained, Missing, and Phantom Heritability**: Genticists use a "bottom-up' approach to estimate the numerator (see equation above) and a "top-down" approach to estimate the denominator. 
+** Explained, Missing, and Phantom Heritability**: Genticists use a "bottom-up' approach to estimate the numerator (see equation above) and a "top-down" approach to estimate the denominator. The numerator will get more precise as lower MAFs are addressed with larger studies. The denonminator is estimated from 'population' or 'exclusive group'  studies (phenotyping correlations in a population), *h<sup>2</sup><sub>pop</sub>*. It is called 'apparent heritability' in the paper. G-G and G-E interactions are ignored in additive models. If considered, *h<sup>2</sup><sub>all</sub>*  may be less than *h<sup>2</sup><sub>pop</sub>*. 
 
 
 
